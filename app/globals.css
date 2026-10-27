@@ -25,3 +25,5 @@ main {
 .price { font-weight: 700; color: #12a150; }
 .todo { color: #c0353a; font-style: italic; }
 @media (max-width: 560px) { .cards { grid-template-columns: 1fr; } }
+.stock-available { color: #16803d; font-weight: 600; }
+.stock-unavailable { color: #b42318; font-weight: 600; }
